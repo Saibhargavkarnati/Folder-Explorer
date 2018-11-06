@@ -5,7 +5,7 @@ This is a java based Folder Explorer application with the help of I/O Stream, AW
 
 This project has been as a part of my Oops project.
 
-**Author** : Sai Bhargav K
+**Author** : Sai Bhargav.K
 
 The source code as well as the class files can be viewed here
 
