@@ -1,6 +1,6 @@
 # Folder-Explorer
 
-This is a java based Folder Explorer application with the help of IO Stream, AWT/Swing with event handling . It comes with various features like date-time of modification, file properties(mainly metadata).
+This is a java based Folder Explorer application with the help of I/O Stream, AWT/Swing with event handling . It comes with various features like date-time of modification, file properties(mainly metadata).
  
 
 This project has been as a part of my Oops project.
